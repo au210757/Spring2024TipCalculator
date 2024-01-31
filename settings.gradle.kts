@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TipCalculator"
+rootProject.name = "Spring2024TipCalculator"
 include(":app")
