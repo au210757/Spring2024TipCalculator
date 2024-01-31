@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">TipCalculator</string>
+    <string name="_15">15%</string>
+    <string name="_15_percent">15 Percent</string>
+    <string name="_20_percent">20 Percent</string>
+    <string name="_20">20%</string>
+    <string name="select_your_own_percentage">Select your own percentage</string>
+    <string name="other">Other</string>
+    <string name="subtotal">Subtotal:</string>
+    <string name="dollarsign">$</string>
+    <string name="lblSubtotal">Subtotal</string>
+    <string name="enter_your_subtotal_here">Enter your subtotal here</string>
+    <string name="default_txtSubtotal">00.00</string>
+    <string name="default_txtCustomInput">25</string>
+    <string name="percent">%</string>
+    <string name="box_for_entering_your_own_percentage">Box for entering your own percentage</string>
+    <string name="confirm">Confirm</string>
+    <string name="total">Total:</string>
 </resources>
